@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Python Project",
+        "due_date": "2025-01-01",
+        "status": "In Progress",
+        "priority": "High"
+    },
+    {
+        "name": "Web App Quiz",
+        "due_date": "2025-01-02",
+        "status": "Not Started",
+        "priority": "High"
+    },
+    {
+        "name": "Web App FExam",
+        "due_date": "2025-01-07",
+        "status": "Not Started",
+        "priority": "High"
+    },
+    {
+        "name": "Python FExam",
+        "due_date": "2025-01-09",
+        "status": "Not Started",
+        "priority": "Medium"
+    },
+    {
+        "name": "python",
+        "due_date": "2025-01-15",
+        "status": "Not Started",
+        "priority": "Medium"
+    }
+]
