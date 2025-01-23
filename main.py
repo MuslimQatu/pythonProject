@@ -1,5 +1,5 @@
-# std_name: Musallam Ismail Al-Qatu
-# std_id: 142379
+# std_name: Muslim Ismail Al-Qatu
+# std_id: XXXXXX
 
 import tkinter as tk
 from task_manager import TaskManager
